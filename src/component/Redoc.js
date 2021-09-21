@@ -11,6 +11,7 @@ const Redoc = () => {
     return (
         <RedocStandalone
             specUrl="/v3/api-docs"
+            //deneme
             options={{
                 nativeScrollbars: true,
                 theme: { colors: { primary: { main: '#dd5522' } } },
